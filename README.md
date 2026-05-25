@@ -33,7 +33,7 @@ Users can explore recipes, save favourites, and manage their own recipe collecti
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 
 ```bash
 foodRecipe/

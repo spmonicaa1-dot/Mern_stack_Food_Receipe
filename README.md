@@ -51,6 +51,7 @@ foodRecipe/
 │
 └── README.md
 
+---
 
 <img width="1759" height="1006" alt="image" src="https://github.com/user-attachments/assets/284ede0e-a924-491f-937c-f409fbb5a71e" />
 <img width="1762" height="1008" alt="image" src="https://github.com/user-attachments/assets/d9f8dc1a-6df9-439d-8833-f4bdbb19d181" />
